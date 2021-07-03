@@ -1,0 +1,88 @@
+body{
+    background-color: #7DB4EE;
+}
+.HeaderEmail{
+    background-color: #7F4B98;
+    width: 600px;
+    height: 40px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.HeaderEmail h4{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+   position: relative;
+   top: 10px;
+   right: 230px;
+}
+ .objetos{
+     position: relative;
+     left: 250px;
+     bottom: 33px;
+     cursor: pointer;
+ }
+ .inputEmail{
+     background-color: #D7D7D7;
+     width: 600px;
+     height: 76px;
+    
+ }
+ .inputEmail input{
+    font-family: 'Courier New', Courier, monospace;
+     outline: none;
+     border: 1px solid black;
+     position: relative;
+     font-size: 1em;
+     bottom: 12px;
+     width: 90%;
+     border-radius: 12px;
+ }
+ .bodyEmail{
+     background-color: white;
+     border: 1px solid white;
+     width: 598px;
+     height: 300px;
+     font-family: 'Courier New', Courier, monospace;
+ }
+ .text{
+     height: 295px;
+     width: 592px;
+ }
+ .FooterEmail{
+     background-color: #D7D7D7 ;
+     width: 600px;
+     height: 40px;
+     border-bottom-left-radius: 20px;
+     border-bottom-right-radius: 20px;
+ }
+ .img{
+     display: inline-block;
+     cursor: pointer;
+    position: relative;
+    bottom: 12px;
+    right: 190px;
+ }
+ .send{
+     background-color: #F609AB;
+     display: inline-block;
+     position: relative;
+     left: 392px;
+     top: 12px;
+     width: 100px;
+     height: 40px;
+     border-bottom-right-radius: 20px;
+     font-family: 'Courier New', Courier, monospace;
+ }
+ .send h2 {
+  position: relative;
+  bottom: 12px;
+ }
+ .send a{
+    color: white;
+    text-decoration: none;
+
+ }
+ /*INDEX2*/
+ h1{
+     font-family: 'Courier New', Courier, monospace;
+ }
